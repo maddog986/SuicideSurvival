@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture 		"ferret_stones"
+	$surfaceprop		"boulder"
+}

@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+   	$BaseTexture 		"ferret_grass1"
+	$surfaceprop		"foliage"
+
+}

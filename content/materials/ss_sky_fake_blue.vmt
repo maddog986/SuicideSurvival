@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "ss_sky_fake_blue"
+	"$nofog" 1
+}

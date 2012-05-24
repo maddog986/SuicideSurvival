@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "ss_ground_green"
+	"$surfaceprop" "dirt"
+}

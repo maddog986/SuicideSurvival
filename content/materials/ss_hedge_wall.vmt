@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture 		"ss_hedge_wall"
+	$surfaceprop		"foliage"
+
+	$bumpmap		"ss_hedge_wall_normal"
+}

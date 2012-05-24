@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$basetexture 		"ss_grassground"
+	$surfaceprop		"foliage"
+
+	$bumpmap		"ss_grassground_normal"
+}

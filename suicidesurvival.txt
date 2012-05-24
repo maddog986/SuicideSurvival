@@ -1,0 +1,7 @@
+"gamemode"
+{
+	"base"		"base"
+	"title"		"Suicide Survival"
+	"menusystem"	"1"
+	"maps"		"^ss_"
+}

@@ -1,0 +1,24 @@
+VertexLitGeneric
+{
+	$basetexture 		"Models/a_shrubbery"
+	$surfaceprop		"Grass"
+
+	$phong			"1"
+
+	$bumpmap		"Models/a_shrubbery_normal"
+	$phongexponent		"15"
+//	$phongexponenttexture	"Models/a_shrubbery_normal"
+	$phongboost		"1.0"
+//	$lightwarptexture	"Models/a_shrubbery_lightwarp"
+	$phongfresnelranges	"[1 3 8]"
+	$halflambert 		"1"
+//	$phongalbedotint 	"1"
+//	$nodecal" 		"1"
+//	$model" 		"1"
+
+	// Rim lighting parameters
+	$rimlight		"1"		// To enable rim lighting (requires phong)
+	$rimlightexponent	"4"		// Exponent for phong component of rim lighting	
+	$rimlightboost 		"2"		// Boost for ambient cube component of rim lighting
+//	$rimmask 		"1"             // Use the alpha channel of the $phongexponenttexture as a rim mask.
+}
